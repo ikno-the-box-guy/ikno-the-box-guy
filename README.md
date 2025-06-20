@@ -1,8 +1,4 @@
-- 👋 Hi, I’m ikno
-- 👀 I’m interested in ikno
-- 🌱 I’m currently learning ikno
-- 💞️ I’m looking to collaborate on ikno
-- 📫 How to reach me ikno
+Check out iksound or something
 
 iknobox@gmail.com
 
